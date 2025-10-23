@@ -41,6 +41,7 @@ public class Calculator {
         return result;
     }
 
+
     public void displayResult(String operator)
     {
         System.out.println(num1 + " " + operator + " " + num2 + " = " + result);
